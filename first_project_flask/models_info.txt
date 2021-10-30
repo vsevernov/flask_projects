@@ -1,0 +1,5 @@
+{"name": "my_model_1_rfc.pkl", "model_name": "RandomForestClassifier", "metric": 0.6486486486486487, "dataset": "titanic_train.csv", "features": ["PassengerId", "Pclass", "Sex", "Age", "SibSp", "Parch", "Ticket", "Fare", "Cabin", "Embarked"], "target": ["Survived"]}
+{"name": "my_model_2_rfc.pkl", "model_name": "RandomForestClassifier", "metric": 0.6486486486486487, "dataset": "titanic_train.csv", "features": ["PassengerId", "Pclass", "Sex", "Age", "SibSp", "Parch", "Ticket", "Fare", "Cabin", "Embarked"], "target": ["Survived"]}
+{"name": "my_model_1_lgb.pkl", "model_name": "lightgbm", "metric": 0.5405405405405406, "dataset": "titanic_train.csv", "features": ["PassengerId", "Pclass", "Sex", "Age", "SibSp", "Parch", "Ticket", "Fare", "Cabin", "Embarked"], "target": ["Survived"]}
+{"name": "my_model_1_dtr.pkl", "model_name": "DecisionTreeRegressor", "metric": 25.993190895971196, "dataset": "boston_train.csv", "features": ["lstat", "rm"], "target": ["medv"]}
+{"name": "huhu.pkl", "model_name": "DecisionTreeRegressor", "metric": 25.9931908959712, "dataset": "boston_train.csv", "features": ["lstat", "rm"], "target": ["medv"]}
